@@ -12,6 +12,11 @@ CraxsRat最新中文版，调整部分界面，显示更美观。
 I am NOT responsible for any damages caused by this software to anyone.
 I do NOT support any malicious use of this software. This is for educational purposes only.
 
+
+**TELEGRAM : @ALENDOK 
+ [TELEGRAM](https://t.me/ALENDOK)**
+ 
+ 
 ---
 |[下载地址]()|[视频演示]()|[电报交流](https://t.me/+QbV9TE35o5g3ZDZi)|[腾讯QQ](https://t.me/+QbV9TE35o5g3ZDZi)|
 |:------------- |:-------------:|:-------------:|:-------------:|
