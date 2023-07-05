@@ -13,31 +13,19 @@ I am NOT responsible for any damages caused by this software to anyone.
 I do NOT support any malicious use of this software. This is for educational purposes only.
 
 
-**TELEGRAM : @ALENDOK 
- [TELEGRAM](https://t.me/ALENDOK)**
+**TELEGRAM : @vaskovel
+ [TELEGRAM](https://t.me/vaskovel)**
  
  
 ---
 |[下载地址]()|[视频演示]()|[电报交流](https://t.me/+QbV9TE35o5g3ZDZi)|[腾讯QQ](https://t.me/+QbV9TE35o5g3ZDZi)|
 |:------------- |:-------------:|:-------------:|:-------------:|
-|[Download]()|[Video]()|[Telegram](https://t.me/+QbV9TE35o5g3ZDZi)|[tencentQQ](https://t.me/+QbV9TE35o5g3ZDZi)|
+|[Download]()|[Video]()|[Telegram](https://t.me/vaskovel)|[tencentQQ](https://t.me/vaskovel)|
 
-# 功能展示
-CraxsRat v5：全面调整优化 修正汉化.
-![20230212134146](https://github.com/Vaskovell676/CRAXS-RAT-5/blob/main/1.jpg)
-CraxsRat v5：
 
-![20230212134146](https://raw.githubusercontent.com/Vaskovell676/CRAXS-RAT-5/main/2.jpg)
-![20230212134146](https://raw.githubusercontent.com/Vaskovell676/CRAXS-RAT-5/main/3.jpg)
-![20230212134146](https://raw.githubusercontent.com/Vaskovell676/CRAXS-RAT-5/main/4.jpg)
-![20230212134146](https://raw.githubusercontent.com/Vaskovell676/CRAXS-RAT-5/main/5.jpg)
-![20230212134146](https://raw.githubusercontent.com/Vaskovell676/CRAXS-RAT-5/main/6.jpg)
-![20230212134146](https://raw.githubusercontent.com/Vaskovell676/CRAXS-RAT-5/main/7.jpg)
-![20230212134146](https://raw.githubusercontent.com/Vaskovell676/CRAXS-RAT-5/main/8.jpg)
-![20230212134146](https://raw.githubusercontent.com/Vaskovell676/CRAXS-RAT-5/main/9.jpg)
-![20230212134146](https://raw.githubusercontent.com/Vaskovell676/CRAXS-RAT-5/main/10.jpg)
-![20230212134146](https://raw.githubusercontent.com/Vaskovell676/CRAXS-RAT-5/main/11.jpg)
-![20230212134146](https://raw.githubusercontent.com/Vaskovell676/CRAXS-RAT-5/main/12.jpg)
+
+
+
 
 ## Features
 𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
@@ -54,11 +42,7 @@ CraxsRat v5：
 - 🟢Live Location
 
 💠𝗟𝗶𝘃𝗲 𝗦𝗰𝗿𝗲𝗲𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹
-- 🟢Show Screen Live
-- 🟢Control Screen (VNC)
-- 🟢Use Keyboard
-- 🟢 Lock / unlock screen
-- 🟢Take silent screenshot
+- 🟢Show Screescreenshot
 
 💠 𝗖𝗮𝗹𝗹 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
 - 🟢 Show List Of Call Out /in
@@ -68,17 +52,7 @@ CraxsRat v5：
 - 🟢Improve “Send SMS”
 - 🟢 Send to multi number
 - 🟢Send to list from file
-- 🟢Send to all contact
-
-💠 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
-- 🟢Show List of Application
-- 🟢 Open App
-- 🟢 Uninstall App
-- 🟢 Disable / enable app
-
-💠𝗞𝗲𝘆𝗹𝗼𝗴𝗴𝗲𝗿
-- 🟢Online/Live keylogger
-- 🟢 Offline keylogger
+- 🟢Send to allylogger
 - 🟢Save it in client folder
 - 🟢Record everything
 - 🟢even pin of screen lock
